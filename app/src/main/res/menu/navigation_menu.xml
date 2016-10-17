@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="PROGRAMMING LANGUAGES" >
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item  android:title="C" android:icon="@drawable/c"  android:id="@+id/c" />
+                <item android:title="C++" android:icon="@drawable/cpp" android:id="@+id/cpp" />
+                <item android:title="JAVA" android:icon="@drawable/javafinal" android:id="@+id/java" />
+                <item android:title="RUBY" android:id="@+id/ruby" android:icon="@drawable/rubylogog" />
+                <item android:title="PYTHON" android:id="@+id/python" android:icon="@drawable/python" />
+                <item android:title="JAVASCRIPT" android:id="@+id/js" android:icon="@drawable/js"/>
+                <item android:title="CLOJURE" android:id="@+id/clojure" android:icon="@drawable/clojure" />
+
+            </group>
+
+        </menu>
+
+    </item>
+
+
+
+    <item android:title="SHARING IS CARING" >
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item android:title="REFER A FRIEND" android:icon="@drawable/refer" android:id="@+id/refer" />
+                <item android:title="RATE US" android:icon="@drawable/rateus" android:id="@+id/rateus" />
+            </group>
+
+        </menu>
+
+    </item>
+
+
+    <item android:title="EXIT"
+        android:icon="@drawable/exit"
+        android:id="@+id/exit" />
+
+
+</menu>
