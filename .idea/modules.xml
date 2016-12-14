@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HackerEarth.iml" filepath="$PROJECT_DIR$/HackerEarth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compile-In-Droid.iml" filepath="$PROJECT_DIR$/Compile-In-Droid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
